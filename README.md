@@ -10,14 +10,16 @@
 
 <b>📚 Tech Stack 📚</b>
 <br/><br/>
-
- 💡 Used as the main
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coing-ye&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coing-ye)](https://github.com/anuraghazra/github-readme-stats)
+ <br/><br/>
+ 💡 Used as the main 💡
  <br/><br/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  <br/><br/>
- 💡 Used at least once
+ 💡 Used at least once 💡
  <br/><br/>
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -27,12 +29,12 @@
  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
  <br/><br/>
- 🚀 Currently Studying
+ 🚀 Currently Studying 🚀
  <br/><br/>
   <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFBF05032?style=for-the-badge&logo=react&logoColor=white">
  <br/><br/>
- 💻 Stats
+ 💻 Stats 💻
  
  ![coing-ye's github stats](https://github-readme-stats.vercel.app/api?username=coing-ye&show_icons=true) &nbsp; &nbsp;
  [![Solved.ac
