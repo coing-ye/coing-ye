@@ -35,8 +35,8 @@
  
  💻 Stats 
  <br/><br/>
-<a href="https://github.com/coing-ye"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
- <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coing-ye&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/coing-ye"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=coing-ye&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Co-ing's github stats" /></a>
+ <a href="https://github.com/coing-ye"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coing-ye&layout=compact&theme=nord&hide_border=true" /></a> 
 <br/><br/>
  [![Solved.ac
 lgtwin1](http://mazassumnida.wtf/api/v2/generate_badge?boj=lgtwin1)](https://solved.ac/profile/lgtwin1)
