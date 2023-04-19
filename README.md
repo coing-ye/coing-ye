@@ -45,8 +45,13 @@ lgtwin1](http://mazassumnida.wtf/api/v2/generate_badge?boj=lgtwin1)](https://sol
 
 - ✉️ Contact: lgtwin144@gmail.com
 
-- 🎓 Major: UNIST - Bachelor/2015~2022
-  - EE(Electronical Engineering)
-  - CSE(Computer Science Engineering) 
+- ✒️ Major: 
+  - CSE (Computer Science Engineering)
+  - EE (Electronical Engineering)
+
+- 🎓 Education: 
+  - UNIST - Bachelor / 2015.03 ~ 2022.08
+  - POSCOxCODINGOn - Full Stack Web Programming Course / 2023.02 ~ 2023.05
+
 
 
