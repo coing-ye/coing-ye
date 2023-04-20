@@ -41,7 +41,8 @@
  [![Solved.ac
 lgtwin1](http://mazassumnida.wtf/api/v2/generate_badge?boj=lgtwin1)](https://solved.ac/profile/lgtwin1)
 
-<b>🏃 About me</b>
+<br/>
+<b>🏃 About me 🏃</b>
 
 - ✉️ Contact: lgtwin144@gmail.com
 
