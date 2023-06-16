@@ -31,6 +31,7 @@
  <br/><br/>
   <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFBF05032?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
  <br/><br/>
  
  💻 Stats 
