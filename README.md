@@ -54,6 +54,7 @@ lgtwin1](http://mazassumnida.wtf/api/v2/generate_badge?boj=lgtwin1)](https://sol
 - 🎓 Education: 
   - UNIST - Bachelor / 2015.03 ~ 2022.08
   - POSCOxCODINGOn - Full Stack Web Programming Course / 2023.02 ~ 2023.05
+  - SSAFY 10th - JAVA, Web Programming Course /2023.07 ~
 
 
 
