@@ -45,16 +45,20 @@ lgtwin1](http://mazassumnida.wtf/api/v2/generate_badge?boj=lgtwin1)](https://sol
 <br/>
 <b>🏃 About me 🏃</b>
 
-- ✉️ Contact: lgtwin144@gmail.com
+- 🚶 Career:
+  - LG CNS - PLM, 웹 개발 / 2024.01 ~
 
 - ✒️ Major: 
   - CSE (Computer Science Engineering)
   - EE (Electronical Engineering)
 
-- 🎓 Education: 
-  - UNIST - Bachelor / 2015.03 ~ 2022.08
+- 🎓 Education:
+  - SSAFY 10th - JAVA, Web Programming Course /2023.07 ~ 2024.12
   - POSCOxCODINGOn - Full Stack Web Programming Course / 2023.02 ~ 2023.05
-  - SSAFY 10th - JAVA, Web Programming Course /2023.07 ~
+  - UNIST - Bachelor / 2015.03 ~ 2022.08
+
+ - ✉️ Contact: coingye96@gmail.com
+ 
 
 
 
